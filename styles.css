@@ -48,8 +48,10 @@ img.logo {
         float: right;
       }
 
+
 footer {
     background-color: #7E0EDB;
+    font-family: Arial;
     color: white;
     text-align: center;
     padding: 10px 0;
