@@ -66,10 +66,6 @@ h5 {
 img.logo {
         float: right;
       }
-.whiteTextOverride
-{
- color: white !important;
-}
 
 .fa {
         padding: 10px;
